@@ -20,6 +20,7 @@ You can also find a list of all available service widgets in the sidebar navigat
 - [ChangeDetection.io](changedetectionio.md)
 - [Channels DVR Server](channelsdvrserver.md)
 - [Cloudflared](cloudflared.md)
+- [Coder](coder.md)
 - [Coin Market Cap](coin-market-cap.md)
 - [CrowdSec](crowdsec.md)
 - [Custom API](customapi.md)

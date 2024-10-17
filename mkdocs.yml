@@ -43,6 +43,7 @@ nav:
           - widgets/services/changedetectionio.md
           - widgets/services/channelsdvrserver.md
           - widgets/services/cloudflared.md
+          - widgets/services/coder.md
           - widgets/services/coin-market-cap.md
           - widgets/services/crowdsec.md
           - widgets/services/customapi.md
