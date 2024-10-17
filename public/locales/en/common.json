@@ -959,5 +959,13 @@
       "tasks7d": "Tasks Due This Week",
       "tasksOverdue": "Overdue Tasks",
       "tasksInProgress": "Tasks In Progress"
+    },
+    "coder": {
+      "pending": "Pending",
+      "building": "Building",
+      "running": "Running",
+      "stopped": "Stopped",
+      "failed": "Failed",
+      "total": "Total"
     }
 }

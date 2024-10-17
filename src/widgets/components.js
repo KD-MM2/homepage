@@ -14,6 +14,7 @@ const components = {
   changedetectionio: dynamic(() => import("./changedetectionio/component")),
   channelsdvrserver: dynamic(() => import("./channelsdvrserver/component")),
   cloudflared: dynamic(() => import("./cloudflared/component")),
+  coder: dynamic(() => import("./coder/component")),
   coinmarketcap: dynamic(() => import("./coinmarketcap/component")),
   crowdsec: dynamic(() => import("./crowdsec/component")),
   iframe: dynamic(() => import("./iframe/component")),

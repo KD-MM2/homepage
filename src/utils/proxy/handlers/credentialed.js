@@ -92,6 +92,8 @@ export default async function credentialedProxyHandler(req, res, map) {
         }
       } else if (widget.type === "wgeasy") {
         headers.Authorization = widget.password;
+      } else if (widget.type === "coder") {
+        headers["Coder-Session-Token"] = `${widget.key}`;
       } else {
         headers["X-API-Key"] = `${widget.key}`;
       }
