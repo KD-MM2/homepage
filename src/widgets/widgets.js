@@ -15,6 +15,7 @@ import changedetectionio from "./changedetectionio/widget";
 import channelsdvrserver from "./channelsdvrserver/widget";
 import checkmk from "./checkmk/widget";
 import cloudflared from "./cloudflared/widget";
+import coder from "./coder/widget";
 import coinmarketcap from "./coinmarketcap/widget";
 import crowdsec from "./crowdsec/widget";
 import customapi from "./customapi/widget";
@@ -158,6 +159,7 @@ const widgets = {
   channelsdvrserver,
   checkmk,
   cloudflared,
+  coder,
   coinmarketcap,
   crowdsec,
   customapi,

@@ -1083,5 +1083,13 @@
         "nextMonthlyCost": "Next Month",
         "previousMonthlyCost": "Prev. Month",
         "nextRenewingSubscription": "Next Payment"
+    },
+    "coder": {
+        "pending": "Pending",
+        "building": "Building",
+        "running": "Running",
+        "stopped": "Stopped",
+        "failed": "Failed",
+        "total": "Total"
     }
 }

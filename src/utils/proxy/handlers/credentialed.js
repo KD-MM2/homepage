@@ -115,6 +115,8 @@ export default async function credentialedProxyHandler(req, res, map) {
           // v1 does not require a key
           headers.Authorization = `Bearer ${widget.key}`;
         }
+      } else if (widget.type === "coder") {
+        headers["Coder-Session-Token"] = `${widget.key}`;
       } else {
         headers["X-API-Key"] = `${widget.key}`;
       }
